@@ -44,7 +44,7 @@
     "gulp-plumber": "^1.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-rev": "^9.0.0",
-    "gulp-rsync": "^0.0.8",
+    "gulp-rsync": "^0.0.9",
     "gulp-sass": "^4.0.2",
     "gulp-sass-lint": "^1.1.1",
     "gulp-size": "^3.0.0",
